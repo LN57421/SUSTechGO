@@ -64,7 +64,7 @@ SUSTecher GO！是一个集成**校园探索** , **宠物收集培养**，**增�
 ### 3.1 主菜单（LBS系统）
 
 <div style="text-align: center;">
-    <img src="image-20240528222758999.png" alt="image-20240528222758999" style="zoom: 50%;" />
+    <img src="./images/image-20240528222758999.png" alt="image-20240528222758999" style="zoom: 50%;" />
 </div>
 
 
@@ -73,19 +73,19 @@ SUSTecher GO！是一个集成**校园探索** , **宠物收集培养**，**增�
 #### 3.2.1 宠物&精灵背包
 
 <div style="text-align: center;">
-    <img src="image-20240528222843740.png" alt="image-20240528222843740" style="zoom:50%;" />
+    <img src="./images/image-20240528222843740.png" alt="./images/image-20240528222843740" style="zoom:50%;" />
 </div>
 
 
 <div style="text-align: center;">
-    <img src="image-20240528222856067.png" alt="image-20240528222856067" style="zoom:50%;" />
+    <img src="./images/image-20240528222856067.png" alt="./images/image-20240528222856067" style="zoom:50%;" />
 </div>
 
 
 #### 3.2.2 增强现实技术（AR）
 
 <div style="text-align: center;">
-    <img src="image-20240528222916305.png" alt="image-20240528222916305" style="zoom:50%;" />
+    <img src="./images/image-20240528222916305.png" alt="./images/image-20240528222916305" style="zoom:50%;" />
 </div>
 
 
