@@ -92,31 +92,31 @@ SUSTecher GO！是一个集成**校园探索** , **宠物收集培养**，**增�
 #### 3.2.3 商店&抽卡面板
 
 <div style="text-align: center;">
-    <img src="image-20240528222953406.png" alt="image-20240528222953406" style="zoom:50%;" />
+    <img src="./images/image-20240528222953406.png" alt="./images/image-20240528222953406" style="zoom:50%;" />
 </div>
 
 
 <div style="text-align: center;">
-    <img src="image-20240528223008054.png" alt="image-20240528223008054" style="zoom:50%;" />
+    <img src="./images/image-20240528223008054.png" alt="./images/image-20240528223008054" style="zoom:50%;" />
 </div>
 
 
 #### 3.2.4 任务面板
 
 <div style="text-align: center;">
-    <img src="image-20240528222932796.png" alt="image-20240528222932796" style="zoom:50%;" />
+    <img src="./images/image-20240528222932796.png" alt="./images/image-20240528222932796" style="zoom:50%;" />
 </div>
 
 
 #### 3.2.5 对战界面
 
 <div style="text-align: center;">
-    <img src="image-20240528223237754.png" alt="image-20240528223237754" style="zoom:50%;" />
+    <img src="./images/image-20240528223237754.png" alt="./images/image-20240528223237754" style="zoom:50%;" />
 </div>
 
 
 <div style="text-align: center;">
-    <img src="image-20240528223254593.png" alt="image-20240528223254593" style="zoom:50%;" />
+    <img src="./images/image-20240528223254593.png" alt="./images/image-20240528223254593" style="zoom:50%;" />
 </div>
 
 
@@ -149,46 +149,46 @@ SUSTecher GO！是一个集成**校园探索** , **宠物收集培养**，**增�
 
 | 序号 |   英文名   | 中文名     | 描述                                                         |                             图片                             |
 | :--: | :--------: | ---------- | ------------------------------------------------------------ | :----------------------------------------------------------: |
-|  1   |  pikachu   | 皮卡丘     | 一只黄色小精灵，外形像可爱的小老鼠，它友好又勇敢，肌肤为黄色，背部有褐色条纹，耳朵尖端为黑色。 | <img src="1_pikachu.png" alt="1_pikachu" style="zoom:33%;" /> |
-|  2   | blastoise  | 水箭龟     | 一只蓝色的精灵，外形是只乌龟，它坚韧又强大，在龟壳的前端伸出了两门水炮，这两门水炮可以缩进龟壳里。 | <img src="2_blastoise.jpg" alt="2_blastoise" style="zoom:33%;" /> |
-|  3   | charizard  | 喷火龙     | 一只橙色的精灵，外形是只恐龙，它有强大的战斗力和威严的气势，。它长着短而粗壮的下肢和相对细小的上肢，上肢有着三根锐利的爪子，同时脚上也长着三颗尖爪。 | <img src="3_charizard.jpg" alt="3_charizard" style="zoom:33%;" /> |
-|  4   |  Blaziken  | 火焰鸡     | 拥有一头白色的羽毛和V字形的鸡冠。它的眼睛是蓝色的。它还有着缠着绷带的爪和强健有力的双腿。 | <img src="4_Blaziken.jpg" alt="4_Blaziken" style="zoom:33%;" /> |
-|  5   |  Bayleef   | 月桂叶     | 身体是黄色的，在脖子周围那些圆圆卷起的叶子中都长有1个小树芽。一片镰刀形状的大叶子从月桂叶头上突出来，叶片上有一个椭圆形的缺口。 | <img src="5_Bayleef.png" alt="5_Bayleef" style="zoom:33%;" /> |
-|  6   |  Breloom   | 斗笠菇     | 体型如同袋鼠，身体以绿色和米黄色为主，四肢上有两个红色的爪指。它头上的蘑菇形成了斗笠状，上方有两个红色的球形物体对称地长在两边。 | <img src="6_Breloom.png" alt="6_Breloom" style="zoom:33%;" /> |
-|  7   |   Celebi   | 时拉比     | 上半身为浅绿色，下半身为草绿色。头部为圆形，并呈弧线状汇聚在脑后且末端为草绿色。它的后背上有一对翅膀，前额上长有带蓝色尖端的绿色触角。 | <img src="7_Celebi.jpg" alt="7_Celebi" style="zoom:33%;" />  |
-|  8   |  Camerupt  | 喷火驼     | 喷火驼的外表以橘红色为主，嘴巴附近为淡肤色，身体两侧各有三个亮蓝色的圆圈。背上的驼峰有类似岩石的结构，头上有三撮上翘的毛发，脚部有蹄。 | <img src="8_Camerupt.png" alt="8_Camerupt" style="zoom:33%;" /> |
-|  9   |  Chimchar  | 小火焰猴   | 皮毛以橙色为主，面部、外耳、腹部、手掌及脚掌则为浅黄色。小火焰猴有一双大耳朵，内耳呈红色。它的眼睛上方有半圈红色的花纹，胸口上有一个旋涡状的标记。 | <img src="9_Chimchar.png" alt="9_Chimchar" style="zoom:33%;" /> |
-|  10  | Charmeleon | 火恐龙     | 头顶长出了一个角状凸起，嘴巴变尖，有点类似鸟喙。它的四肢和尾巴较长，尾巴末端依然燃烧着火焰。 | <img src="10_Charmeleon.jpg" alt="10_Charmeleon" style="zoom:33%;" /> |
-|  11  | Decidueye  | 狙射树枭   | 一只温和的绿色精灵，身上覆盖着绒绒的绿色毛发，长长的耳朵上戴着一对花环，活泼可爱的大眼睛里闪烁着聪明的光芒。 | <img src="11_Decidueye.jpg" alt="11_Decidueye" style="zoom:33%;" /> |
-|  12  |  Darkrai   | 达克莱伊   | 一只神秘的黄色精灵，身形修长，覆盖着浓密的黑色斗篷，深邃的眼睛中闪烁着幽暗的光芒 | <img src="12_Darkrai.png" alt="12_Darkrai" style="zoom:33%;" /> |
-|  13  |  Cobalion  | 科布       | 一只高大而威严的精灵，身躯覆盖着银色坚硬的铠甲，眼睛中闪烁着坚定的光芒。它是坚决捍卫正义的守护者，外表展现出高贵和庄严的气质。性格坚毅而勇敢，具有无比的正义感和责任感，时刻准备着保护弱者和维护和平。 | <img src="13_Cobalion.jpg" alt="13_Cobalion" style="zoom:33%;" /> |
-|  14  |  Corsola   | 珊瑚水母   | 一只可爱的粉色精灵，身体呈珊瑚形状，覆盖着粉色的珊瑚块和淡蓝色的斑点，它拥有慵懒而温和的性格。 | <img src="14_Corsola.jpg" alt="14_Corsola" style="zoom: 33%;" /> |
-|  15  | Combusken  | 猛火鸡     | 一只精力充沛的精灵，身形纤瘦但肌肉结实，覆盖着橙色的鸡冠和黄色的鸡脚，眼神中透露着坚定和热情。 | <img src="15_Combusken.png" alt="15_Combusken" style="zoom:33%;" /> |
-|  16  |  Cradily   | 摇篮百合   | 一种与植物相似的绿色精灵，它的头部、脖子和躯干上有着不同式样的黄色标记。它的头上有着新月形的开口，开口上还有一对圆形的黄色眼点，有八条粉色的触须环绕在它的头部根处。 | <img src="16_Cradily.jpg" alt="16_Cradily" style="zoom:33%;" /> |
-|  17  |  Croconaw  | 蓝鳄       | 身体是蓝色的，肚子上有着米色的花纹。它的嘴里总是长满着48颗牙齿。它的头部、背部、尾部均分布着红色的骨板。 | <img src="17_Croconaw.jpg" alt="17_Croconaw" style="zoom:33%;" /> |
-|  18  |  Dartrix   | 投羽枭     | 外形就像是一只猫头鹰，它的身体整体颜色以白色和绿色为主，大部分时候它都是眯着眼睛的。投羽枭非常自恋，又爱美，是注重外表，很在意自己的外观的精灵 | <img src="18_Dartrix.jpg" alt="18_Dartrix" style="zoom:33%;" /> |
-|  19  | Chikorita  | 菊草叶     | 身体是淡绿色的，头上有一片深绿色的叶子，脖子长著一圈芽。它的头跟身体上的其他部位相比相当的大，有着红色的大眼睛。它的四只短脚分别有一根带指甲的脚趾，它还有一条小小的尾巴。 | <img src="19_Chikorita.jpg" alt="19_Chikorita" style="zoom:33%;" /> |
-|  20  | Cyndaquil  | 火球鼠     | 头部除长吻外呈球形。火球鼠的颜色可以分成两部分：背部及头部上方为墨蓝色；头部下方、胸部、腹部及四肢则为奶黄色。它背部上的四个红色的小孔会喷出火柱。 | <img src="20_Cyndaquil.jpg" alt="20_Cyndaquil" style="zoom:33%;" /> |
-|  21  |   Cubone   | 卡拉卡拉   | 它拿着一根骨头，并作为武器，身体是褐色的，腹部为亚麻色，手指、脚尖有着白色的指甲，还有着短短的尾巴。 | <img src="21_Cubone.jpg" alt="21_Cubone" style="zoom:33%;" /> |
-|  22  | Cresselia  | 克雷色利亚 | 有浅蓝色的身体，腹部是黄色的，头两侧的有着月牙状的黄色装饰。粉色的环形翅膀在侧面和后背，有爪子状的前端放在胸前 | <img src="22_Cresselia.png" alt="22_Cresselia" style="zoom:33%;" /> |
+|  1   |  pikachu   | 皮卡丘     | 一只黄色小精灵，外形像可爱的小老鼠，它友好又勇敢，肌肤为黄色，背部有褐色条纹，耳朵尖端为黑色。 | <img src="./images/1_pikachu.png" alt="./images/1_pikachu" style="zoom:33%;" /> |
+|  2   | blastoise  | 水箭龟     | 一只蓝色的精灵，外形是只乌龟，它坚韧又强大，在龟壳的前端伸出了两门水炮，这两门水炮可以缩进龟壳里。 | <img src="./images/2_blastoise.jpg" alt="2_blastoise" style="zoom:33%;" /> |
+|  3   | charizard  | 喷火龙     | 一只橙色的精灵，外形是只恐龙，它有强大的战斗力和威严的气势，。它长着短而粗壮的下肢和相对细小的上肢，上肢有着三根锐利的爪子，同时脚上也长着三颗尖爪。 | <img src="./images/3_charizard.jpg" alt="./images/3_charizard" style="zoom:33%;" /> |
+|  4   |  Blaziken  | 火焰鸡     | 拥有一头白色的羽毛和V字形的鸡冠。它的眼睛是蓝色的。它还有着缠着绷带的爪和强健有力的双腿。 | <img src="./images/4_Blaziken.jpg" alt="./images/4_Blaziken" style="zoom:33%;" /> |
+|  5   |  Bayleef   | 月桂叶     | 身体是黄色的，在脖子周围那些圆圆卷起的叶子中都长有1个小树芽。一片镰刀形状的大叶子从月桂叶头上突出来，叶片上有一个椭圆形的缺口。 | <img src="./images/5_Bayleef.png" alt="./images/5_Bayleef" style="zoom:33%;" /> |
+|  6   |  Breloom   | 斗笠菇     | 体型如同袋鼠，身体以绿色和米黄色为主，四肢上有两个红色的爪指。它头上的蘑菇形成了斗笠状，上方有两个红色的球形物体对称地长在两边。 | <img src="./images/6_Breloom.png" alt="./images/6_Breloom" style="zoom:33%;" /> |
+|  7   |   Celebi   | 时拉比     | 上半身为浅绿色，下半身为草绿色。头部为圆形，并呈弧线状汇聚在脑后且末端为草绿色。它的后背上有一对翅膀，前额上长有带蓝色尖端的绿色触角。 | <img src="./images/7_Celebi.jpg" alt="./images/7_Celebi" style="zoom:33%;" />  |
+|  8   |  Camerupt  | 喷火驼     | 喷火驼的外表以橘红色为主，嘴巴附近为淡肤色，身体两侧各有三个亮蓝色的圆圈。背上的驼峰有类似岩石的结构，头上有三撮上翘的毛发，脚部有蹄。 | <img src="./images/8_Camerupt.png" alt="./images/8_Camerupt" style="zoom:33%;" /> |
+|  9   |  Chimchar  | 小火焰猴   | 皮毛以橙色为主，面部、外耳、腹部、手掌及脚掌则为浅黄色。小火焰猴有一双大耳朵，内耳呈红色。它的眼睛上方有半圈红色的花纹，胸口上有一个旋涡状的标记。 | <img src="./images/9_Chimchar.png" alt="./images/9_Chimchar" style="zoom:33%;" /> |
+|  10  | Charmeleon | 火恐龙     | 头顶长出了一个角状凸起，嘴巴变尖，有点类似鸟喙。它的四肢和尾巴较长，尾巴末端依然燃烧着火焰。 | <img src="./images/10_Charmeleon.jpg" alt="./images/10_Charmeleon" style="zoom:33%;" /> |
+|  11  | Decidueye  | 狙射树枭   | 一只温和的绿色精灵，身上覆盖着绒绒的绿色毛发，长长的耳朵上戴着一对花环，活泼可爱的大眼睛里闪烁着聪明的光芒。 | <img src="./images/11_Decidueye.jpg" alt="./images/11_Decidueye" style="zoom:33%;" /> |
+|  12  |  Darkrai   | 达克莱伊   | 一只神秘的黄色精灵，身形修长，覆盖着浓密的黑色斗篷，深邃的眼睛中闪烁着幽暗的光芒 | <img src="./images/12_Darkrai.png" alt="./images/12_Darkrai" style="zoom:33%;" /> |
+|  13  |  Cobalion  | 科布       | 一只高大而威严的精灵，身躯覆盖着银色坚硬的铠甲，眼睛中闪烁着坚定的光芒。它是坚决捍卫正义的守护者，外表展现出高贵和庄严的气质。性格坚毅而勇敢，具有无比的正义感和责任感，时刻准备着保护弱者和维护和平。 | <img src="./images/13_Cobalion.jpg" alt="./images/13_Cobalion" style="zoom:33%;" /> |
+|  14  |  Corsola   | 珊瑚水母   | 一只可爱的粉色精灵，身体呈珊瑚形状，覆盖着粉色的珊瑚块和淡蓝色的斑点，它拥有慵懒而温和的性格。 | <img src="./images/14_Corsola.jpg" alt="./images/14_Corsola" style="zoom: 33%;" /> |
+|  15  | Combusken  | 猛火鸡     | 一只精力充沛的精灵，身形纤瘦但肌肉结实，覆盖着橙色的鸡冠和黄色的鸡脚，眼神中透露着坚定和热情。 | <img src="./images/15_Combusken.png" alt="./images/15_Combusken" style="zoom:33%;" /> |
+|  16  |  Cradily   | 摇篮百合   | 一种与植物相似的绿色精灵，它的头部、脖子和躯干上有着不同式样的黄色标记。它的头上有着新月形的开口，开口上还有一对圆形的黄色眼点，有八条粉色的触须环绕在它的头部根处。 | <img src="./images/16_Cradily.jpg" alt="./images/16_Cradily" style="zoom:33%;" /> |
+|  17  |  Croconaw  | 蓝鳄       | 身体是蓝色的，肚子上有着米色的花纹。它的嘴里总是长满着48颗牙齿。它的头部、背部、尾部均分布着红色的骨板。 | <img src="./images/17_Croconaw.jpg" alt="./images/17_Croconaw" style="zoom:33%;" /> |
+|  18  |  Dartrix   | 投羽枭     | 外形就像是一只猫头鹰，它的身体整体颜色以白色和绿色为主，大部分时候它都是眯着眼睛的。投羽枭非常自恋，又爱美，是注重外表，很在意自己的外观的精灵 | <img src="./images/18_Dartrix.jpg" alt="./images/18_Dartrix" style="zoom:33%;" /> |
+|  19  | Chikorita  | 菊草叶     | 身体是淡绿色的，头上有一片深绿色的叶子，脖子长著一圈芽。它的头跟身体上的其他部位相比相当的大，有着红色的大眼睛。它的四只短脚分别有一根带指甲的脚趾，它还有一条小小的尾巴。 | <img src="./images/19_Chikorita.jpg" alt="./images/19_Chikorita" style="zoom:33%;" /> |
+|  20  | Cyndaquil  | 火球鼠     | 头部除长吻外呈球形。火球鼠的颜色可以分成两部分：背部及头部上方为墨蓝色；头部下方、胸部、腹部及四肢则为奶黄色。它背部上的四个红色的小孔会喷出火柱。 | <img src="./images/20_Cyndaquil.jpg" alt="./images/20_Cyndaquil" style="zoom:33%;" /> |
+|  21  |   Cubone   | 卡拉卡拉   | 它拿着一根骨头，并作为武器，身体是褐色的，腹部为亚麻色，手指、脚尖有着白色的指甲，还有着短短的尾巴。 | <img src="./images/21_Cubone.jpg" alt="./images/21_Cubone" style="zoom:33%;" /> |
+|  22  | Cresselia  | 克雷色利亚 | 有浅蓝色的身体，腹部是黄色的，头两侧的有着月牙状的黄色装饰。粉色的环形翅膀在侧面和后背，有爪子状的前端放在胸前 | <img src="./images/22_Cresselia.png" alt="./images/22_Cresselia" style="zoom:33%;" /> |
 
 ### 6.2 Boss介绍
 
 | 序号 |   英文名    |                          图片                           |  出没地点  |
 | :--: | :---------: | :-----------------------------------------------------: | :--------: |
-|  0   |     Bat     | ![image-20240528104814952](image-20240528104814952.png) | 第一教学楼 |
-|  1   |  Bat Lord   | ![image-20240528104829879](image-20240528104829879.png) | 第一科研楼 |
-|  2   |     Bee     | ![image-20240528104849122](image-20240528104849122.png) | 一丹图书馆 |
-|  3   |    Bird     | ![image-20240528104912197](image-20240528104912197.png) |  湖畔食堂  |
-|  4   |  Fledgling  | ![image-20240528104942074](image-20240528104942074.png) |  中心食堂  |
-|  5   |    Ghost    | ![image-20240528104953913](image-20240528104953913.png) | 琳恩图书馆 |
-|  6   |   Phantom   | ![image-20240528105000947](image-20240528105000947.png) |   理学院   |
-|  7   |    Shade    | ![image-20240528105010759](image-20240528105010759.png) |   商学院   |
-|  8   |   Shadow    | ![image-20240528105024866](image-20240528105024866.png) | 第三教学楼 |
-|  9   |   Spider    | ![image-20240528105037527](image-20240528105037527.png) | 涵泳图书馆 |
-|  10  | Spider King | ![image-20240528105048978](image-20240528105048978.png) |  风雨操场  |
-|  11  |    Sting    | ![image-20240528105103276](image-20240528105103276.png) |  社康中心  |
-|  12  | Vampire Bat | ![image-20240528105142789](image-20240528105142789.png) | 润扬体育馆 |
+|  0   |     Bat     | ![image-20240528104814952](./images/image-20240528104814952.png) | 第一教学楼 |
+|  1   |  Bat Lord   | ![image-20240528104829879](./images/image-20240528104829879.png) | 第一科研楼 |
+|  2   |     Bee     | ![image-20240528104849122](./images/image-20240528104849122.png) | 一丹图书馆 |
+|  3   |    Bird     | ![image-20240528104912197](./images/image-20240528104912197.png) |  湖畔食堂  |
+|  4   |  Fledgling  | ![image-20240528104942074](./images/image-20240528104942074.png) |  中心食堂  |
+|  5   |    Ghost    | ![image-20240528104953913](./images/image-20240528104953913.png) | 琳恩图书馆 |
+|  6   |   Phantom   | ![image-20240528105000947](./images/image-20240528105000947.png) |   理学院   |
+|  7   |    Shade    | ![image-20240528105010759](./images/image-20240528105010759.png) |   商学院   |
+|  8   |   Shadow    | ![image-20240528105024866](./images/image-20240528105024866.png) | 第三教学楼 |
+|  9   |   Spider    | ![image-20240528105037527](./images/image-20240528105037527.png) | 涵泳图书馆 |
+|  10  | Spider King | ![image-20240528105048978](./images/image-20240528105048978.png) |  风雨操场  |
+|  11  |    Sting    | ![image-20240528105103276](./images/image-20240528105103276.png) |  社康中心  |
+|  12  | Vampire Bat | ![image-20240528105142789](./images/image-20240528105142789.png) | 润扬体育馆 |
 
 ### 6.3 NPC介绍	
 
@@ -226,12 +226,12 @@ SUSTecher GO！是一个集成**校园探索** , **宠物收集培养**，**增�
 ## 8 游戏规模
 
 - Lines of Code、Number of source files
-  - ![image-20240528231731467](image-20240528231731467.png)
+  - ![image-20240528231731467](./images/image-20240528231731467.png)
 - Number of packages/modules
-  - ![image-20240528223856563](image-20240528223856563.png)
+  - ![image-20240528223856563](./images/image-20240528223856563.png)
 - Number of dependencies
-  - ![image-20240528224006018](image-20240528224006018.png)
-  - ![image-20240528224013709](image-20240528224013709.png)
+  - ![image-20240528224006018](./images/image-20240528224006018.png)
+  - ![image-20240528224013709](./images/image-20240528224013709.png)
 
 ## 8 故障与排除
 
